@@ -1,8 +1,1 @@
-tensorflow==2.18.0
-matplotlib
-pandas
-numpy
-scikit-learn
-seaborn
-opencv-python
-keras
+https://drive.google.com/drive/u/5/folders/1LfmKCIntn2oUNZdl1yNbaDkGqw4XIy3g
