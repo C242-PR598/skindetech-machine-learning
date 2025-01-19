@@ -1,8 +1,1 @@
-tensorflow==2.18.0
-matplotlib
-pandas
-numpy
-scikit-learn
-seaborn
-opencv-python
-keras
+https://kaggle.com/datasets/34990c1c4e58f06e54f32154f2571a7811658adcfd90a2730fb12013343e8988 
